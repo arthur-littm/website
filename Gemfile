@@ -2,6 +2,8 @@ source "https://rubygems.org"
 
 ruby "2.5.3"
 
+gem 'middleman-gh-pages'
+
 gem "bourbon"
 gem "builder"
 gem "middleman"

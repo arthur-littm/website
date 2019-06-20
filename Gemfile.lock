@@ -82,6 +82,8 @@ GEM
       servolux
       tilt (~> 2.0.9)
       uglifier (~> 3.0)
+    middleman-gh-pages (0.4.1)
+      rake (> 0.9.3)
     middleman-inline_svg (0.1.2)
       middleman-core (>= 3.4.1)
       nokogiri (>= 1.8)
@@ -138,6 +140,7 @@ DEPENDENCIES
   middleman
   middleman-aria_current
   middleman-autoprefixer
+  middleman-gh-pages
   middleman-inline_svg
   middleman-minify-html
   neat
